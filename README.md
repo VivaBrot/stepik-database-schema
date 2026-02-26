@@ -26,7 +26,7 @@
 
 1.  **Клонируйте репозиторий**
     ```bash
-    git clone https://github.com/Seregan11219794@gmail.com/stepik-database-schema.git
+    git clone https://github.com/VivaBrot/stepik-database-schema.git
     ```
 2.  **Откройте скрипт** в MySQL Workbench.
 3.  **Выполните** весь скрипт. Он сам создаст схему `stepik` и заполнит её данными.
